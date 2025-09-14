@@ -10,3 +10,8 @@ var myZnumber = Z00419371;
 ```
 
 
+
+- [ ] Finish Github Assinments
+- [ ] Watch the video lectures
+- [ ] Work on project for ML
+
